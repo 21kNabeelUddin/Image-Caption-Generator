@@ -58,7 +58,7 @@ The trained model is used to generate captions for new images. The model is test
 
 Clone the repository:
 ```bash
-git clone https://github.com/21kNabeelUddin/Image-Caption-Generator/edit/main/README.md
+git clone https://github.com/21kNabeelUddin/Image-Caption-Generator.git
 ```
 
 
